@@ -10,3 +10,4 @@ This repository contains an interactive **HR Dashboard** created using **Tableau
 * Salary vs age
 * Interactive filters for deeper insights
 
+linkedin https://www.linkedin.com/in/rituraj-sharma-5b2578339/
