@@ -4,10 +4,19 @@ This repository contains an interactive **HR Dashboard** created using **Tableau
 
 ### 🔍 Features
 
-* Active and Hired Employees
-* Education Vs age
-* Age and tenure distribution
-* Salary vs age
-* Interactive filters for deeper insights
+Active and Hired Employees
+
+Education and Age
+
+Departments
+
+Education and Gender
+
+Location
+
+Education and Performance
+
+Age Vs Salary
+
 
 linkedin https://www.linkedin.com/in/rituraj-sharma-5b2578339/
